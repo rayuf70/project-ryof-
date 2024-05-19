@@ -1,0 +1,156 @@
+.menu {
+
+background-color: #8D38C9;
+
+overflow: auto; }
+
+
+
+.menu ul {
+
+text-align: center;
+
+padding-top: 20px;
+
+padding-bottom: 20px;
+
+text-decoration: none; 
+
+}
+
+.menu li {
+
+display: inline-block;
+
+text-align: center; 
+
+}
+
+.menu li a {
+
+display: inline-block;
+
+height: auto;
+
+width: 150px;
+
+color: #000000;
+
+background-color: #D2B9D3;
+
+padding: 10px;
+
+margin: 4px;
+
+text-align: center;
+
+font-size: 25px;
+
+font-weight: #9E7BFF;
+
+text-decoration: none;
+
+border-radius: 4px;
+
+}
+
+.menu li a:hover {
+
+background-color: #9E7BFF; 
+
+ }
+ body {
+
+font-family: "Tahoma", "open Sans", sans-serif;
+
+background:white; }
+
+p{
+
+color: #111111; }
+.main h1 {
+overflow: auto;
+margin-top: 20px;
+ margin-left: auto;
+ margin-right: auto;
+width: 300px;
+padding:10px;
+color:#800080;
+font-weight:bold;
+font-size: bold;
+text-align:center;
+ border-radius: 30px;
+}
+.main h2 {
+overflow: auto;
+margin-top: 20px;
+ margin-left: auto;
+ margin-right: auto;
+width: 300px;
+padding: 20px;
+color:#800080;
+font-weight:bold;
+text-align:center;
+ border-radius: 30px;
+}
+.photos {
+overflow:auto;
+padding-top: 15px;
+padding-bottom: 30px;
+text-align:center;
+background-color: #AFDCEC;
+}
+.photos img {
+border-style:solid;
+border-width: 1px;
+border-color: #5E767E;
+border-radius: 3px;
+margin: 1px;
+object -fit:cover;
+object -position:top;
+}
+.footer{
+      overflow: auto;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: center;
+      
+}
+  
+  .footer{
+  border-style:ridge;
+  border-width:5px;
+  border-color: thistle;
+  border-radius:4px;
+  margin:3px;
+  object-fit:cover;
+  object-position:top;}
+  .footer {
+    overflow:auto;
+    background-color:	lightgray;
+} 
+.footer ul { 
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.footer li {
+    display: inline-block;
+    text-align: center;
+}
+.footer li a { 
+    display: inline-block;
+    height: auto;
+    color: 8888;
+    background-color: rgb(200, 232, 234);
+    padding: 18px;
+    margin: 4px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.footer li a:hover {
+    background-color: hsl(200, 232, 234);}
+    
